@@ -1,0 +1,7 @@
+aiohttp
+certifi
+sqlalchemy
+greenlet
+aiosqlite
+fastapi
+uvicorn
